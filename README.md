@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dilpunjab
-- 👀 I’m interested in Computer science
+- 👀 I enjoy gym.
 - 🌱 I’m currently learning Databases
 - 💞️ I’m looking to collaborate on good Idea
 - 📫 How to reach me diljotsingh128@gmail.com
