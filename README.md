@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dilpunjab
-- 👀 I enjoy gym.
-- 🌱 I’m currently learning Databases
-- 💞️ I’m looking to collaborate on good Idea
-- 📫 How to reach me diljotsingh128@gmail.com
+ Hi, I’m @Dilpunjab
+ I enjoy gym.
+ I’m currently learning Databases
+ How to reach me diljotsingh128@gmail.com
 
 <!---
 Dilpunjab/Dilpunjab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
